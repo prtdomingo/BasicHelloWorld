@@ -6,7 +6,7 @@ namespace BasicHelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Jovy!");
+            Console.WriteLine("Hi Jovy!");
         }
     }
 }
