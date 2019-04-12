@@ -1,0 +1,11 @@
+C:\Users\v-phdomi\Desktop\Development\BasicHelloWorld\BasicHelloWorld\bin\Debug\netcoreapp2.1\BasicHelloWorld.deps.json
+C:\Users\v-phdomi\Desktop\Development\BasicHelloWorld\BasicHelloWorld\bin\Debug\netcoreapp2.1\BasicHelloWorld.runtimeconfig.json
+C:\Users\v-phdomi\Desktop\Development\BasicHelloWorld\BasicHelloWorld\bin\Debug\netcoreapp2.1\BasicHelloWorld.runtimeconfig.dev.json
+C:\Users\v-phdomi\Desktop\Development\BasicHelloWorld\BasicHelloWorld\bin\Debug\netcoreapp2.1\BasicHelloWorld.dll
+C:\Users\v-phdomi\Desktop\Development\BasicHelloWorld\BasicHelloWorld\bin\Debug\netcoreapp2.1\BasicHelloWorld.pdb
+C:\Users\v-phdomi\Desktop\Development\BasicHelloWorld\BasicHelloWorld\obj\Debug\netcoreapp2.1\BasicHelloWorld.csprojAssemblyReference.cache
+C:\Users\v-phdomi\Desktop\Development\BasicHelloWorld\BasicHelloWorld\obj\Debug\netcoreapp2.1\BasicHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\v-phdomi\Desktop\Development\BasicHelloWorld\BasicHelloWorld\obj\Debug\netcoreapp2.1\BasicHelloWorld.AssemblyInfoInputs.cache
+C:\Users\v-phdomi\Desktop\Development\BasicHelloWorld\BasicHelloWorld\obj\Debug\netcoreapp2.1\BasicHelloWorld.AssemblyInfo.cs
+C:\Users\v-phdomi\Desktop\Development\BasicHelloWorld\BasicHelloWorld\obj\Debug\netcoreapp2.1\BasicHelloWorld.dll
+C:\Users\v-phdomi\Desktop\Development\BasicHelloWorld\BasicHelloWorld\obj\Debug\netcoreapp2.1\BasicHelloWorld.pdb
